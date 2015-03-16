@@ -1,7 +1,7 @@
 {
   "name": "php-light-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A light syntax theme built primarily for PHP, JS, and HTML.",
   "repository": "https://github.com/austp/php-light-syntax",
   "license": "MIT",
